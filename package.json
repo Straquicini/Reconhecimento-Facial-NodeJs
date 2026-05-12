@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Straquicini/Reconhecimento-Facial-NodeJs#readme",
   "dependencies": {
+    "@supabase/supabase-js": "^2.105.4",
     "@vladmandic/face-api": "^1.7.15",
     "canvas": "^3.2.3",
     "cors": "^2.8.6",

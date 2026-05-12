@@ -1,2 +1,6 @@
 # Reconhecimento-Facial-NodeJs
 Projeto de reconhecimento facial em NodeJS e Supabase.
+
+api-url : https://odcuqrfgyydmorruvxkn.supabase.co/rest/v1/
+
+anon public key : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9kY3VxcmZneXlkbW9ycnV2eGtuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg1ODc4NzgsImV4cCI6MjA5NDE2Mzg3OH0.DiaSko_u9aYA40qY2C6mWgsBAZAXoYnm8E06xMix32U
